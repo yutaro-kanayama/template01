@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+/*
+ * base
+ */
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, "游ゴシック", YuGothic, 
+    "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+    background-color: #fff;
+    color: #13191b;
+    line-height: 1.7;
+    font-size: 13px;
+}
+
+/*
+ * header
+ */
+.header {
+	
+}
+
+/*
+ * section
+ */
+.section {
+	
+}
+
+/*
+ * heafooterder
+ */
+.footer {
+	
+}

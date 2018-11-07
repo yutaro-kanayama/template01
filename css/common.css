@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+/*
+ * common
+ */
+.pc-none {
+	display: none;
+}
+.sp-none {
+	display: block;
+}
+.pc-br {
+	display: block;
+}
+.sp-br {
+	display: none;
+}
